@@ -21,5 +21,5 @@ Deploying Applications on EKS
 
 Containerizing Applications with Docker
 Writing Kubernetes Deployment YAMLs
-Deploying Applications to EKS
-Copy and paste the Kubernetes address in browser!!
+Deploying Applications to EKS.
+Copy and paste the Kubernetes Load Balancer address in browser!!
